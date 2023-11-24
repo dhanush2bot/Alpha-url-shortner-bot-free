@@ -16,7 +16,7 @@ Convert Any Shortner Link To Your With Post
 
 ## VPS Setup 
 
-git clone https://github.com/JayRaj8833/Alpha-Url-Shortner-Bot.git
-cd /Alpha-Url-Shortner-Bot
-pip3 install -r requirements.txt
-python3 bot.py
+<br>git clone https://github.com/JayRaj8833/Alpha-Url-Shortner-Bot.git</br>
+<br>cd /Alpha-Url-Shortner-Bot</br>
+<br>pip3 install -r requirements.txt</br>
+<br>python3 bot.py</br>
