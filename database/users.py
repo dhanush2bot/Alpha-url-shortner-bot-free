@@ -14,13 +14,13 @@ async def get_user(user_id):
     if not user:
         res = {
             "user_id": user_id,
-            "method":"MdiskPro",
+            "method":"Alpha",
             "shortener_api": None,
             "mdisk_api": None,
             "header_text": "",
             "footer_text": "",
             "username": None,
-            "base_site": "lnthamizha.com",
+            "base_site": "your-url-shortner-domain.com",
             "banner_image": None,
             "is_banner_image": True,
             "is_username": True,
