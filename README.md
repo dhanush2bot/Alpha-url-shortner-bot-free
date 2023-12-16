@@ -5,7 +5,7 @@ Convert Any Shortner Link To Your With Post
 
 </p>
 <h1 align="center">
-  <b>Alpha Url Shortner V1.0</b>
+  <b>Alpha Url Shortner (FREE)</b>
 </h1>
 
 ## Deveplover : [@JayRaj8833][https://telegram.me/JayRaj8833]
