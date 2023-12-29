@@ -1,5 +1,5 @@
 echo "Cloning Repo...."
-git clone https://github.com/JayRaj8833/Alpha-Url-Shortner-Bot.git
+git clone https://github.com/dhanush2bot/Alpha-url-shortner-bot-free
 cd /Alpha-Url-Shortner-Bot
 pip3 install -r requirements.txt
 echo "Starting Bot...."
